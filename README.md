@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Raghavendra H N 👋
 
 ## 🌐 Connect with Me
 
@@ -7,50 +7,43 @@
 
 ---
 
-## 🛠️ Languages and Tools
+🎓 Electronics and Communication Engineering student at Dr. Ambedkar Institute of Technology, Bengaluru, graduating in 2027.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,django,firebase,cpp,mysql,git,github,vscode,postman,linux,arduino" />
-</p>
+💡 I am passionate about building impactful software solutions at the intersection of mobile development, cybersecurity, artificial intelligence, and computer networks.
 
----
+🚀 Currently working as a Flutter Developer Intern, where I develop production-level applications using Flutter and Django REST APIs, implement role-based systems, and collaborate with teams using Git and GitHub.
 
-## 📊 GitHub Stats
+🔒 My journey in cybersecurity includes phishing analysis, penetration testing, packet inspection, and vulnerability assessment using tools like Wireshark, Kali Linux, and Nmap.
 
-![](https://github-readme-stats.vercel.app/api?username=Raghavendra31&show_icons=true&theme=tokyonight)
+🛠️ Tech Stack
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Raghavendra31&theme=tokyonight)
+* Languages: Python, Dart, SQL
+* Mobile Development: Flutter, Firebase
+* Backend: Django REST API
+* Cybersecurity: Wireshark, Kali Linux, Nmap
+* AI & Machine Learning: Logistic Regression, Data Analysis
+* CS Fundamentals: DSA, OOPs, DBMS, Computer Networks
+* Embedded Systems: Arduino, ESP32
+* Tools: Git, GitHub, Postman, VS Code, Android Studio
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavendra31&layout=compact&theme=tokyonight)
+📌 Featured Projects
 
----
+* 🛡️ Cyber Scam Pattern & Phishing Detector (94% accuracy)
+* 📚 Academic Officer Dashboard (Flutter + Django)
+* 🔧 Mechanic Finder App with Google Maps Integration
+* 🤖 AI Chatbot using API Integration
+* 📹 IoT Surveillance System
 
-## 🏆 GitHub Trophies
+🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Raghavendra31&theme=tokyonight&margin-w=15)
+* Cleared multiple rounds of MSME Hackathon 5.0
+* Participated in 10+ hackathons
+* 2nd Runner-up at the IISc Bengaluru Junkyard Hackathon
+* Secured an on-campus offer from Tata Consultancy Services (TCS)
 
----
+🌱 Currently learning Data Structures & Algorithms, System Design, Computer Networks, and scalable backend development.
 
-## 📈 Contribution Graph
+🎯 My goal is to become a software engineer who builds secure, intelligent, and impactful products.
 
-[![Raghavendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghavendra31&theme=tokyo-night)](https://github.com/Raghavendra31)
+⭐ Always open to learning, collaborating, and contributing to innovative projects.
 
----
-
-## 🚀 Current Focus
-
-- 📱 Building scalable Flutter applications
-- 🔐 Exploring Cybersecurity and Networking
-- 🤖 Learning AI and Machine Learning
-- 📚 Strengthening DSA and System Design
-- 🌍 Preparing for Software Engineering opportunities
-
----
-
-## ⚡ Fun Facts
-
-- 🏆 Participated in 10+ hackathons
-- 🥈 Runner-up at IISc Bengaluru Junkyard Hackathon
-- 💼 Flutter Developer Intern at Phalmora
-- 🎯 On-campus placement offer from TCS
-- 🤸 Interested in gymnastics, acting, and storytelling
