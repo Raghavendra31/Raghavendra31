@@ -7,6 +7,14 @@
 
 ---
 
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,django,firebase,cpp,mysql,git,github,vscode,postman,linux,arduino" />
+</p>
+
+---
+
 🎓 Electronics and Communication Engineering student at Dr. Ambedkar Institute of Technology, Bengaluru, graduating in 2027.
 
 💡 I am passionate about building impactful software solutions at the intersection of mobile development, cybersecurity, artificial intelligence, and computer networks.
